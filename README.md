@@ -16,4 +16,4 @@
 
 [https://www.google.com/]
 
-![Bild von einem Wasservogel] mandarin-ducks-8525827_640.jpg
+![Bild von einem Wasservogel](mandarin-ducks-8525827_640.jpg)
