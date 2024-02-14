@@ -3,7 +3,11 @@ Aufgabe Mittwoch bearbeite von Angelika
 ...
 
 
+
 Darky, Hugo, Frigga und Tortelini
+
+...Änderung Angelika durchgeführt
+
 
 
 ...
