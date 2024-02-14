@@ -1,0 +1,18 @@
+terminal 
+git 
+
+git und github unterschied
+
+was ist git
+
+kommandos
+
+was ist kein kommando
+
+ordner erstellen und löschen
+
+mkdir löschem ordner
+
+rm -r NAME
+rmdir NAME
+rm -rf NAME
